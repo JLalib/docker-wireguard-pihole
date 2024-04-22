@@ -16,7 +16,7 @@ Los ficheros de configuración se guardan en; ./wireguard
 
 - Para acceder a Pi-hole, es http://IP-SERVER-DOCKER:8080/admin
   
-Vídeo en Youtube:
+Vídeo en Youtube: https://youtu.be/yZYI1l8ArNs
 
 
 
