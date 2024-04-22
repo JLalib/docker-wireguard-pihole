@@ -20,6 +20,8 @@ Vídeo en Youtube:
 
 
 
+![wg + pihole miniatura yt](https://github.com/JLalib/docker-wireguard-pihole/assets/57844755/065f2803-4bd2-4dc4-98f0-3a29e728c0e2)
+
 
 Fuente: https://github.com/wg-easy/wg-easy - https://www.wireguard.com/ - https://pi-hole.net/
 
