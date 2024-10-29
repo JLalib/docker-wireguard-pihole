@@ -4,6 +4,8 @@
 
 Cómo instalar y configurar servidor VPN Wireguad junto con Pi-hole y gestionar conexiones de usuarios con WG-EASy y bloquear los Ads y rastreadores.
 
+Nota: Es importante tener abierto el puerto en tu Router.
+
 - Crea directorio de trabajo
 
 - Situate en el directorio y crea el fichero docker-compose.yml
