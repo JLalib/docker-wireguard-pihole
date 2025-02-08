@@ -4,7 +4,7 @@ services:
   wg-easy:
     environment:
       # IP pública o Hostname:
-      - WG_HOST=genbyte.duckdns.org
+      - WG_HOST=xxxxxxxxxx.duckdns.org
       # Idioma es=Español:
       - LANG=es
       # Contraseña interfaz web UI: #Cambiar un $ por $$. Comando generar hash; docker run --rm -it ghcr.io/wg-easy/wg-easy wgpw
