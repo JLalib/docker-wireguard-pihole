@@ -7,8 +7,8 @@ services:
       - WG_HOST=xxxxxxxxxx.duckdns.org
       # Idioma es=Español:
       - LANG=es
-      # Contraseña interfaz web UI: #Cambiar un $ por $$. Comando generar hash; docker run --rm -it ghcr.io/wg-easy/wg-easy wgpw
-      - PASSWORD_HASH= #https://github.com/wg-easy/wg-easy/blob/master/How_to_generate_an_bcrypt_hash.md
+      # Contraseña interfaz web UI: #Cambiar un $ por $$. Comando generar hash; docker run --rm -it ghcr.io/wg-easy/wg-easy wgpw CONTRASEÑA
+      - PASSWORD_HASH=CONTRASEÑA_GENERADA #https://github.com/wg-easy/wg-easy/blob/master/How_to_generate_an_bcrypt_hash.md
       # Dirección IP del contenedor Pihole
       - WG_DEFAULT_DNS=10.8.1.3
       - WG_DEFAULT_ADDRESS=10.8.0.x
