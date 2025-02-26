@@ -10,7 +10,7 @@ Nota: Es importante tener abierto el puerto en tu Router.
 
 - Situate en el directorio y crea el fichero docker-compose.yml
 
-- # Comando para generar contraseña en hash; docker run --rm -it ghcr.io/wg-easy/wg-easy wgpw CONTRASEÑA
+- Comando para generar contraseña en hash; docker run --rm -it ghcr.io/wg-easy/wg-easy wgpw CONTRASEÑA
 
 - PASSWORD_HASH=CONTRASEÑA_GENERADA ##Cambiar un $ por $$. https://github.com/wg-easy/wg-easy/blob/master/How_to_generate_an_bcrypt_hash.md
 
